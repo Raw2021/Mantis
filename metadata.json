@@ -1,0 +1,6 @@
+{
+  "name": "Orchid Mantis",
+  "description": "Interactive lapbook simulation for orchid mantis observation presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
